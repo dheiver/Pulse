@@ -1,117 +1,114 @@
-# Medic By Themefisher
 
-If your goal is to create a professional medical website, look no further than Medic. The Medic can be implemented on any health clinic, dentist, private doctor, or surgeon website.
-
-<!-- demo -->
-## Example Site
+<!-- demonstração -->
+## Site de exemplo
 
 | [![](screenshots/homepage.png)](https://demo.themefisher.com/themefisher/medic/index.html) | [![](screenshots/about.png)](https://demo.themefisher.com/themefisher/medic/about.html) | [![](screenshots/service.png)](https://demo.themefisher.com/themefisher/medic/service.html) |
 |:---:|:---:|:---:|
-| **Homepage**  | **About**  | **Service**  |
+| **Página inicial** | **Sobre** | **Serviço** |
 | [![](screenshots/gallery.png)](https://demo.themefisher.com/themefisher/medic/gallery.html) | [![](screenshots/team.png)](https://demo.themefisher.com/themefisher/medic/team.html) | [![](screenshots/contact.png)](https://demo.themefisher.com/themefisher/medic/contact.html) |
-| **Gallery** | **Team** | **Contact** |
+| **Galeria** | **Equipe** | **Contato** |
 
-👉🏻[View Live Preview](https://demo.themefisher.com/themefisher/medic/)
+👉🏻[Visualizar visualização ao vivo](https://demo.themefisher.com/themefisher/medic/)
 
-<!-- pages -->
-## Pages
+<!-- páginas -->
+## Páginas
 
-* **Homepage**
-* **About**
-* **Services**
-* **Gallery**
-* **Team**
-* **Appointment**
-* **Blogs**
-* **Blog Details**
-* **Contact**
+* **Pagina inicial**
+* **Sobre**
+* **Serviços**
+* **Galeria**
+* **Equipe**
+* **Compromisso**
+* **Blog**
+* **Detalhes do blog**
+* **Contato**
 
-<!-- download -->
-## Download And installation
+<!-- baixar -->
+## Download e instalação
 
-Download this template from [Github](https://github.com/themefisher/medic/archive/main.zip)
+Baixe este modelo do [Github](https://github.com/themefisher/medic/archive/main.zip)
 
-<!-- installation -->
-### Basic Usages
+<!-- instalação -->
+### Usos básicos
 
-After downloading the template, you can simply edit the HTML and CSS files from the `theme` folder. To preview the changes you make to the code, you can open the index.html file in your web browser.
+Depois de baixar o modelo, você pode simplesmente editar os arquivos HTML e CSS da pasta `theme`. Para visualizar as alterações feitas no código, você pode abrir o arquivo index.html em seu navegador da web.
 
-### Advanced Usage
+### Uso avançado
 
-For advanced usage, you have some prerequisites to install. Then you can run it on your localhost. You can view the package.json file to see which scripts are included.
+Para uso avançado, você tem alguns pré-requisitos para instalar. Então você pode executá-lo em seu localhost. Você pode visualizar o arquivo package.json para ver quais scripts estão incluídos.
 
-#### Install prerequisites (once for a machine)
+#### Pré-requisitos de instalação (uma vez para uma máquina)
 
-* **Node Installation:** [Install node js](https://nodejs.org/en/download/)
-* **Gulp Installation:** Install gulp globally from your terminal
+* **Instalação do nó:** [Instalar o nó js](https://nodejs.org/en/download/)
+* **Instalação do Gulp:** Instale o gulp globalmente a partir do seu terminal
 
 ```
 npm install --global gulp-cli
 ```
 
-Or visit the original [Gulp docs](https://gulpjs.com/docs/en/getting-started/quick-start)
+Ou visite os [documentos Gulp] originais (https://gulpjs.com/docs/en/getting-started/quick-start)
 
-#### Local setup
+#### Configuração local
 
-After successfully installing those dependencies, open this theme with any IDE [[VS Code](https://code.visualstudio.com/) recommended], and then open the internal terminal of IDM [vs code shortcut <code>ctrl/cmd+\`</code>]
+Depois de instalar com sucesso essas dependências, abra este tema com qualquer IDE [[VS Code](https://code.visualstudio.com/) recomendado] e, em seguida, abra o terminal interno do IDM [vs code atalho <code>ctrl/cmd+ \`</code>]
 
-* Install dependencies
-
-```
-npm install
-```
-
-* Run locally
+* Instalar dependências
 
 ```
-npm run dev
+npm instalar
 ```
 
-After that, it will open up a preview of the template in your default browser, watch for changes to source files, and live reload the browser when changes are saved.
-
-#### Production Build
-
-After finishing all the customization, you can create a production build by running this command.
+* Executar localmente
 
 ```
-npm run build
+npm executar dev
 ```
 
-Now you get a `theme` folder that has all the changes you have made. you can use this folder as your main theme.
+Depois disso, ele abrirá uma visualização do modelo em seu navegador padrão, observará as alterações nos arquivos de origem e recarregará o navegador ao vivo quando as alterações forem salvas.
 
-👉🏻 [visit documentation](https://docs.themefisher.com/medic/)
+#### Compilação de Produção
 
-<!-- reporting issue -->
-## Reporting Issues
+Depois de terminar toda a personalização, você pode criar uma compilação de produção executando este comando.
 
-We use GitHub Issues as the official bug tracker for the medic Template. Please Search [existing issues](https://github.com/themefisher/medic/issues). It’s possible someone has already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/themefisher/medic/issues).
+```
+npm executar compilação
+```
 
-<!-- support -->
-## Technical Support or Questions (Paid)
+Agora você obtém uma pasta `theme` que contém todas as alterações que você fez. você pode usar esta pasta como seu tema principal.
 
-If you have questions or need help integrating the product please [contact us](mailto:mehedi@themefisher.com) instead of opening an issue.
+👉🏻 [visite a documentação](https://docs.themefisher.com/medic/)
 
-<!-- licence -->
-## License
+<!-- problema de relatório -->
+## Problemas de relatório
 
-Copyright (c) 2016 - Present, Designed & Developed by [Themefisher](https://themefisher.com)
+Usamos os problemas do GitHub como o rastreador de bugs oficial para o modelo médico. Pesquise [problemas existentes](https://github.com/themefisher/medic/issues). É possível que alguém já tenha relatado o mesmo problema.
+Se o seu problema ou ideia ainda não foi resolvido, sinta-se à vontade para [abrir um novo problema](https://github.com/themefisher/medic/issues).
 
-**Code License:** Released under the [MIT](https://github.com/themefisher/medic/blob/main/LICENSE) license.
+<!-- suporte -->
+## Suporte Técnico ou Dúvidas (Pago)
 
-**Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
+Se você tiver dúvidas ou precisar de ajuda para integrar o produto, [entre em contato conosco] (mailto:mehedi@themefisher.com) em vez de abrir um problema.
 
-<!-- resources -->
-## Resources
+<!-- licença -->
+## Licença
 
-Some third-party plugins that we used to build this template. Please check their license.
+Copyright (c) 2016 - Presente, projetado e desenvolvido por [Themefisher](https://themefisher.com)
+
+**Licença de código:** lançado sob a licença [MIT](https://github.com/themefisher/medic/blob/main/LICENSE).
+
+**Licença de imagem:** As imagens são apenas para fins de demonstração. Eles têm sua licença, não temos permissão para compartilhar essas imagens.
+
+<!-- recursos -->
+## Recursos
+
+Alguns plugins de terceiros que usamos para construir este modelo. Por favor, verifique sua licença.
 
 * **Bootstrap v4.5**: <https://getbootstrap.com/docs/4.5/getting-started/introduction/>
 * **Jquery v3.5.1**: <https://jquery.com/download/>
 * **Google Fonts**: <http://fonts.google.com/>
-* **Animate CSS**: <https://animate.style/>
+* **Animar CSS**: <https://animate.style/>
 * **Fancybox**: <http://fancybox.net/>
-* **Font Awesome Free**: <https://fontawesome.com/>
+* **Fonte incrível grátis**: <https://fontawesome.com/>
 * **jQueryUi**: <https://jqueryui.com/>
-* **Time Picker**: <http://pttimeselect.sourceforge.net/example/index.html>
+* **Seletor de tempo**: <http://pttimeselect.sourceforge.net/example/index.html>
 * **Slick**: <https://kenwheeler.github.io/slick/>
